@@ -9,17 +9,6 @@
 
 ---
 
-### 🌐 Connect with Me:
-
-<p align="left">
-  <a href="https://twitter.com/maharme_me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maharme_me" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/bnalwalid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bnalwalid" height="30" width="40" /></a>
-  <a href="https://fb.com/bnalwalid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bnalwalid" height="30" width="40" /></a>
-  <a href="https://instagram.com/bnnalwalid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bnnalwalid" height="30" width="40" /></a>
-</p>
-
----
-
 ### 🛠️ Languages and Tools:
 
 <p align="left">
